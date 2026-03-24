@@ -18,3 +18,11 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# git init
+# git remote add origin https://github.com/username/repo-name.git
+# git add .  
+# git commit -m "Your commit message"
+# git push origin main
+# git push -u origin main
