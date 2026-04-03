@@ -63,7 +63,7 @@ def updatefile():
                     data = input("Enter the data you want to write this will overwrite the exsiting data : ")
                     f.write(data)
             
-            if res == 3:
+            if res == 3: 
                 with open(p, "a") as f:
                     data = input("Enter the data you want to append : ")
                     f.write(" " +data)
