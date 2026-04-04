@@ -18,4 +18,4 @@ class PuneFactory(BhopalFaactory):
         print(f"Your object details are material: {self.material}, zips: {self.zips}, color: {self.color}, pockets: {self.pockets}")
 
 obj = PuneFactory("Leather", 2, "Black", 4)
-obj.show()
+obj.show() 
